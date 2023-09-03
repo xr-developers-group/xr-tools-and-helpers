@@ -1,4 +1,4 @@
-## AI Tools for Asset Generation
+## AI Tools for XR Asset Generation
 
 Explore a curated list of AI-powered tools and software that can significantly enhance asset generation for XR (Extended Reality) experiences:
 
