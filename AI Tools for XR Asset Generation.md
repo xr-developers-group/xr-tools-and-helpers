@@ -4,7 +4,7 @@ Explore a curated list of AI-powered tools and software that can significantly e
 
 1. **[Luma AI](https://lumalabs.ai/)**: A versatile tool offering 3D and NERF (Neural Radiance Fields) generation capabilities, perfect for creating immersive XR assets.
 
-2. **[PolyCam3D](https://poly.cam/)**: This tool specializes in 3D and 360° photo generation, enabling you to capture and integrate real-world environments into your XR projects.
+2. **[PolyCam3D](https://poly.cam/)**: This tool specializes in 3D Models and 360° photo generation, enabling you to capture and integrate real-world objects & environments into your XR projects.
 
 3. **[Ideogram AI](https://ideogram.ai/)**: A text-to-image generator with a focus on accurate text typography, allowing you to create visually appealing textual XR assets.
 
