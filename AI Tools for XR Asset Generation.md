@@ -20,4 +20,7 @@ Explore a curated list of AI-powered tools and software that can significantly e
 
 9. **[Skybox AI](https://skybox.blockadelabs.com/)**: A tool specialized in text-to-360 photo generation, making it an excellent resource for creating immersive XR environments.
 
+10. **[Meshi AI](https://www.meshy.ai/)**: Meshy is your 3D generative AI toolbox for effortlessly creating 3D assets from text or images, accelerating your 3D workflow.
+
 Feel free to explore each tool's documentation and capabilities to determine which ones best suit your XR asset generation needs. These AI-powered tools can significantly enhance your XR content creation process.
+
